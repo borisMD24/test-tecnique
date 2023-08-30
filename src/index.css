@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto:ital@0;1&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.genre{
+    display: inline-block !important;
+    margin: .5 .75em;
+}
